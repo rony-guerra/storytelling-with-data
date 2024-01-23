@@ -6,4 +6,6 @@ Hello and thank you for visiting my repository! Here, you'll find a collection o
 As a dedicated space for my work in data science, it represents both my growth in the field and my commitment to insightful data exploration.
 Within these projects, you will discover a variety of datasets, detailed analyses, and the valuable insights I've uncovered. My hope is that these projects not only inform but also spark curiosity and passion for the transformative power of data.
 
+For a comprehensive write-up and discussion of my data analysis projects, including detailed narratives and insights, be sure to check out my articles on [Medium](https://medium.com/@guerrarony1997).
+
 Happy exploring, and may you find inspiration in these stories of data!
